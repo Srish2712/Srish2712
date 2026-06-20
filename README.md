@@ -15,23 +15,6 @@ In August 2026, I'll be joining **Imperial College London** to pursue a Master's
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heysrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Srishti's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysrish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heysrish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heysrish&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🛠️ What I've Built
 
 ### 🏦 LLM App for Financial Due Diligence — EY-Parthenon
